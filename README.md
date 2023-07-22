@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d0/e8/67/d0e867ba87d5c05fb3a56bb436c3f93c.gif" alt="Your Project Master Head" width="600">
+  <img src="https://i.pinimg.com/originals/d0/e8/67/d0e867ba87d5c05fb3a56bb436c3f93c.gif" alt="Your Project Master Head" width="500">
 </p>
 <h1 align="center">Hi 👋, I'm azix khan</h1>
 <h3 align="center">A Highly motivated Software Engineering student with a passion for Flutter App Development.</h3>
