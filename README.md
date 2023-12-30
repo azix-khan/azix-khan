@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [www.azixkhan.com](www.azixkhan.com)
 
-- 💬 Ask me about **Flutter UI's**
+- 💬 Ask me about **Flutter Apps**
 
 - 📫 How to reach me **azixkhan.55@gmail.com**
 
