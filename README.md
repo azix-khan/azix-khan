@@ -17,7 +17,7 @@
 
 - 🤝 I’m **Passionate about continuous learning**
 
-- 👨‍💻 All of my projects are available at [www.azixkhan.com](www.azixkhan.com)
+- 👨‍💻 All of my projects are available at [www.azixkhan.com](azixkhan.github.io)
 
 - 💬 Ask me about **Flutter Apps**
 
