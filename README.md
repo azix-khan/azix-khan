@@ -1,6 +1,7 @@
 <p align="center">
 <!--   <img src="https://i.pinimg.com/originals/d0/e8/67/d0e867ba87d5c05fb3a56bb436c3f93c.gif" alt="Your Project Master Head" width="500"> -->
-    <img src="https://w0.peakpx.com/wallpaper/365/48/HD-wallpaper-think-twice-code-once-code-computer-programming-syntax.jpg" alt="Your Project Master Head" width="500">
+    <img src="https://github.com/user-attachments/assets/f551a18c-031e-4b70-90de-bbe900117432" alt="Your Project Master Head" width="500">
+
 </p>
 <h1 align="center">Hi👋, I'm Aziz Ur Rahman</h1>
 <h3 align="center">A Highly motivated Software Engineering student with a passion for Flutter App Development.</h3>
