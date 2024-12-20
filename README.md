@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **azixkhan.55@gmail.com**
 
-- 📄 Know about my experiences [Google Drive link](https://drive.google.com/file/d/1g_DbuVGft1XIwryiItOxmzVF7_-lfPNM/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive link](https://drive.google.com/file/d/1qIUxZAsg1Mc780sPp_jHBvj4sFm7j-T5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
