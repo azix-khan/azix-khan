@@ -22,7 +22,7 @@
 - 📫 How to reach me **azixkhan.55@gmail.com**
 
 - 📄 Know about my experiences in Flutter [Google Drive link](https://drive.google.com/file/d/1qIUxZAsg1Mc780sPp_jHBvj4sFm7j-T5/view?usp=drive_link)
-- 📄 Know about me as a Software Engineer [Google Drive link](https://drive.google.com/file/d/1gAKmJOW8B-vdjqSrcaXtComtOtTa6GfV/view?usp=sharing)
+- 📄 Know about me as a Software Engineer [Google Drive link](https://drive.google.com/file/d/1_RoLMv62ak_CWttF7WLGfI3BycOjOkDl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
