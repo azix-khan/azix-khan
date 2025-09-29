@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://i.pinimg.com/originals/d0/e8/67/d0e867ba87d5c05fb3a56bb436c3f93c.gif" alt="Your Project Master Head" width="500"> -->
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*rpS9Gn1JoVoJ-FnVGEqX7A.png" alt="Your Project Master Head" width="500">
+  <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/1*rpS9Gn1JoVoJ-FnVGEqX7A.png" alt="Your Project Master Head" width="500"> -->
 <!--     <img src="https://github.com/user-attachments/assets/f551a18c-031e-4b70-90de-bbe900117432" alt="Your Project Master Head" width="900"> -->
 
 </p>
