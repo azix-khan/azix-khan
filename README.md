@@ -34,8 +34,7 @@
 
 - 📫 How to reach me **engineer.azix@gmail.com**
 
-- 📄 Know about my experiences in Flutter [Google Drive link](https://drive.google.com/file/d/1BNtBJEpp1g0RAnunHuduZe5c-fKvk1IA/view?usp=sharing)
-- 📄 Know about me as a Software Engineer [Google Drive link](https://drive.google.com/file/d/1Egrvk935_qvFaw3e_z4PHs1yeUb_C984/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive link](https://drive.google.com/file/d/1wnUb4uZY_39847ylSJm9QW0Exa7u83JL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
