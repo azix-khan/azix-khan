@@ -4,7 +4,7 @@
 <!--     <img src="https://github.com/user-attachments/assets/f551a18c-031e-4b70-90de-bbe900117432" alt="Your Project Master Head" width="900"> -->
 
 </p>
-<h1 align="center">Hi 👋, I'm Aziz Ur Rahman</h1>
+<h1 align="center">Hi👋, I'm Aziz Ur Rahman</h1>
 <!-- <h3 align="center">A Highly motivated Software Engineer with a passion for Mobile Application Development using Flutter.</h3> -->
 <p>
   I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 specializing in 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 and 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, with over 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 building scalable applications, MVPs, and production-ready solutions. Skilled in 𝗙𝗹𝘂𝘁𝘁𝗲𝗿, 𝗗𝗮𝗿𝘁, 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲, 𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝘀, and state management patterns (𝗕𝗟𝗼𝗖, 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿, 𝗚𝗲𝘁𝗫), I bring strong foundations in 𝗼𝗯𝗷𝗲𝗰𝘁-𝗼𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗱𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀, 𝗮𝗻𝗱 𝗰𝗹𝗲𝗮𝗻 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲.
