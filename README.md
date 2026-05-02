@@ -73,6 +73,6 @@
 </p>
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azix-khan&show_icons=true&locale=en&layout=compact" alt="azix-khan" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azix-khan&show_icons=true&locale=en" alt="azix-khan" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azix-khan&show_icons=true&locale=en" alt="azix-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azix-khan&" alt="azix-khan" /></p>
