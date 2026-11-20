@@ -30,9 +30,9 @@
 
 - 🤝 I’m **Passionate about continuous learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://azix-khan.github.io" target="blank">www.azixkhan.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://aazizapps.com" target="blank">www.azixzapps.com</a>
 
-- 📫 How to reach me **azix.codes@gmail.com** OR **engineer.azix@gmail.com**
+- 📫 How to reach me **azix.codes@gmail.com** OR **hello@azizapps.com**
 
 - 📄 Know about my experiences [Google Drive link](https://drive.google.com/file/d/1wnUb4uZY_39847ylSJm9QW0Exa7u83JL/view?usp=sharing)
 
