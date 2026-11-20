@@ -30,7 +30,7 @@
 
 - 🤝 I’m **Passionate about continuous learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://azizapps.com" target="blank">www.azixzapps.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://azizapps.com" target="blank">www.azizapps.com</a>
 
 - 📫 How to reach me **azix.codes@gmail.com** OR **hello@azizapps.com**
 
